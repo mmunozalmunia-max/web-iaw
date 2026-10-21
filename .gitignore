@@ -1,4 +1,8 @@
 .env
+<<<<<<< HEAD
 *.log
 node_modules/
 vendor/
+=======
+*.log
+>>>>>>> 913e441 (Configura archivos ignorados)
